@@ -5,8 +5,7 @@ title = "Blog"
 
 [params]
 author = "Susy-eng"
-description = "👩‍💻"
-description = "Doing something today that your future self will thank you for."
+description = "👩‍💻Doing something today that your future self will thank you for."
 # profilePicture = "content/images/snoopy.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 contentratio = 0.7
