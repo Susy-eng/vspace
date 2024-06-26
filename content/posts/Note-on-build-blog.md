@@ -14,7 +14,7 @@ GitHub Actions Workflow: to build and deploy your website.
 - [Install Hugo](https://gohugo.io/installation/)
 - [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## Step by Step Tutorial
+## Step-by-Step Tutorial
 Step1: create a new public repository.<br>
 Step2: Create a new site with hugo.<br>
 ```
@@ -23,7 +23,7 @@ hugo new site space
 Step3: Init local git and choose a hugo theme.<br>
 There are many themes provided [here](https://themes.gohugo.io/).
 Choose one you like.Take [anatole](https://github.com/lxndrblz/anatole) for an example.
-hugo new site sitename, 
+hugo new site site-name, 
 site name is the blog's name you name it.
 
 ```
@@ -82,7 +82,7 @@ mkdir -p .github/workflows
 cd .github/workflows
 vim deploy_gh_pages.yaml
 ```
-Example ymal file
+Example yaml file
 ```commandline
 ---
 name: Deploy Hugo site via GitHub Pages
