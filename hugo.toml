@@ -4,58 +4,16 @@ theme = "anatole"
 title = "Blog"
 
 [params]
-  author = "I'm Susy"
-  description = "A blog about all things technical.
-  profilePicture = "images/profile.jpg"
+author = "I'm Susy"
+description = "A blog about all things technical.
+profilePicture = "images/profile.jpg"
 
 [[params.socialIcons]]
-  icon = "fab fa-linkedin"
-  title = "Linkedin"
-  url = "https://de.linkedin.com/"
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
 
 [[params.socialIcons]]
-  icon = "fas fa-envelope"
-  title = "e-mail"
-  url = "mailto:mail@example.com"
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
-
-[[main]]
-  name = "Accomplishments"
-  weight = 500
-  identifier = "accomplishments"
-
-[[main]]
-    name = "Awards"
-    weight = 510
-    identifier = "awards"
-    url = "/awards/"
-    parent = "accomplishments"
-
-[[main]]
-    name = "Certifications"
-    weight = 520
-    identifier = "certifications"
-    url = "/certifications/"
-    parent = "accomplishments"
-
-
-copyright = "2024-{{ YEAR }}"
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mail@example.com"
