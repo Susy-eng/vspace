@@ -4,8 +4,8 @@ theme = "anatole"
 title = "Blog"
 
 [params]
-author = "I'm Susy"
-description = "A blog about all things technical."
+author = "Susy-eng"
+description = "An online note space."
 profilePicture = "images/profile.jpg"
 
 [[params.socialIcons]]
