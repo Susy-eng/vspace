@@ -7,6 +7,8 @@ title = "Blog"
 author = "Susy-eng"
 description = "An online note space."
 profilePicture = "images/profile.jpg"
+doNotLoadAnimations = true # Animations are loaded by default
+contentratio = 0.7
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -37,5 +39,7 @@ url = "mailto:mail@example.com"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+
 
 copyright = "2024-{{ YEAR }}"
