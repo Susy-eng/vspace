@@ -5,8 +5,8 @@ title = "Blog"
 
 [params]
 author = "Susy-eng"
-description = "👩‍💻🎾🏂Doing something today that your future self will thank you for."
-profilePicture = "content/images/profile.jpg"
+description = "👩‍💻Doing something today that your future self will thank you for."
+profilePicture = "content/images/snoopy.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 contentratio = 0.7
 
@@ -19,6 +19,11 @@ url = "https://de.linkedin.com/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:mail@example.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/"
 
 [menu]
 
