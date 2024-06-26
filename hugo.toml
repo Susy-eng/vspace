@@ -5,7 +5,7 @@ title = "Blog"
 
 [params]
 author = "Susy-eng"
-description = "An online note space."
+description = "An online note space. - 👩‍💻 Practice makes perfect.- 🤖 A week is 2% of the year.- 🎾 Doing something today that your future self will thank you for.- 🏂 You only live once."
 profilePicture = "images/profile.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 contentratio = 0.7
@@ -33,7 +33,6 @@ url = "mailto:mail@example.com"
   weight = 300
   identifier = "about"
   url = "/about/"
-
 
 
 copyright = "2024-{{ YEAR }}"
