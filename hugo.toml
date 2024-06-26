@@ -5,7 +5,7 @@ title = "Blog"
 
 [params]
 author = "I'm Susy"
-description = "A blog about all things technical.
+description = "A blog about all things technical."
 profilePicture = "images/profile.jpg"
 
 [[params.socialIcons]]
@@ -17,3 +17,25 @@ url = "https://de.linkedin.com/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:mail@example.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+copyright = "2024-{{ YEAR }}"
