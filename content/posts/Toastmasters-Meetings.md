@@ -4,8 +4,6 @@ date: 2024-06-27T02:15:32+08:00
 draft: false
 ---
 
-
-
 | Name    | Meeting Time                                      | Frequency |Website | contact |
 | :-------- |:--------------------------------------------------| :------ | :------- | :------ |
 | Witty Storytellers Online  | 1st and 3rd Sundays 6:00-7:30 a.m. London Time    | Monthly|[Witty Storytellers Online](https://www.toastmasters.org/Find-a-Club/05618837-witty-storytellers-online) |none| 
