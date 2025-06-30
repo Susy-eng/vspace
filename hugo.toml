@@ -6,7 +6,7 @@ title = "Blog"
 [params]
 author = "Susy-eng"
 description = "👩‍💻Doing something today that your future self will thank you for."
-# profilePicture = "content/images/snoopy.jpg"
+profilePicture = "content/images/LegoSusy.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 contentratio = 0.7
 
@@ -40,4 +40,4 @@ url = "https://github.com/"
   url = "/about/"
 
 
-copyright = "2024-{{ YEAR }}"
+copyright = "2025-{{ YEAR }}"
