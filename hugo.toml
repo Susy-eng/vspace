@@ -39,5 +39,7 @@ url = "https://github.com/"
   identifier = "about"
   url = "/about/"
 
+googleAnalytics = ""
+
 
 copyright = "2025-{{ YEAR }}"
